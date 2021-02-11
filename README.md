@@ -1,5 +1,4 @@
-# Airline_Safety_Visuals_and_Charting
-Course assignments for DSC 640 related to airline safety
+# Airline_Safety_Visuals_and_Charting  
 
 ## Overview
 The purpose of this project was to allow for further experience in developing various charts, graphs, and other forms of visual communication. By focusing on airline safety, a cotinuous thread could be strung through each of the projects. With each step, the audience grew and evolved. 
